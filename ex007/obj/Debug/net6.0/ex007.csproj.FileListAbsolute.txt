@@ -13,3 +13,18 @@ C:\Users\vit21\OneDrive - Rudy Moore School\Рабочий стол\алгори
 C:\Users\vit21\OneDrive - Rudy Moore School\Рабочий стол\алгоритм\NEW_home\New\ex007\obj\Debug\net6.0\ex007.pdb
 C:\Users\vit21\OneDrive - Rudy Moore School\Рабочий стол\алгоритм\NEW_home\New\ex007\obj\Debug\net6.0\ex007.genruntimeconfig.cache
 C:\Users\vit21\OneDrive - Rudy Moore School\Рабочий стол\алгоритм\NEW_home\New\ex007\obj\Debug\net6.0\ref\ex007.dll
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.csproj.AssemblyReference.cache
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.AssemblyInfoInputs.cache
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.AssemblyInfo.cs
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.csproj.CoreCompileInputs.cache
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.dll
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\refint\ex007.dll
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.pdb
+C:\учеба\new\examples\ex007\bin\Debug\net6.0\ex007.exe
+C:\учеба\new\examples\ex007\bin\Debug\net6.0\ex007.deps.json
+C:\учеба\new\examples\ex007\bin\Debug\net6.0\ex007.runtimeconfig.json
+C:\учеба\new\examples\ex007\bin\Debug\net6.0\ex007.dll
+C:\учеба\new\examples\ex007\bin\Debug\net6.0\ex007.pdb
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ex007.genruntimeconfig.cache
+C:\учеба\new\examples\ex007\obj\Debug\net6.0\ref\ex007.dll

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vit21\\.nuget\\packages\\": {}
+    "C:\\Users\\elena\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vit21\\OneDrive - Rudy Moore School\\Рабочий стол\\алгоритм\\NEW_home\\New\\ex007\\ex007.csproj",
+      "projectUniqueName": "C:\\учеба\\new\\examples\\ex007\\ex007.csproj",
       "projectName": "ex007",
-      "projectPath": "C:\\Users\\vit21\\OneDrive - Rudy Moore School\\Рабочий стол\\алгоритм\\NEW_home\\New\\ex007\\ex007.csproj",
-      "packagesPath": "C:\\Users\\vit21\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vit21\\OneDrive - Rudy Moore School\\Рабочий стол\\алгоритм\\NEW_home\\New\\ex007\\obj\\",
+      "projectPath": "C:\\учеба\\new\\examples\\ex007\\ex007.csproj",
+      "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
+      "outputPath": "C:\\учеба\\new\\examples\\ex007\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vit21\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
