@@ -18,12 +18,12 @@
         Console.SetCursorPosition(xc, yc);
         Console.WriteLine("+");
 
-        int x = xa, y = xb;
+        int x = xa, y = ya;
         int count = 0;
 
-        while (count < 5)
+        while (count < 100)
         {
-            int what = new Random().Next(0, 3); //012'
+            int what = new Random().Next(0, 2); //012'
             if (what == 0)
             {
                 x = (x + xa) / 2;
