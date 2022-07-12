@@ -15,6 +15,7 @@ int[] array = new int [10];
 fillArray(array);
 printArray(array);
 
+
 void printArray(int[] col)
 {
     int count = col.Length;
