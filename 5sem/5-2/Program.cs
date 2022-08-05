@@ -129,3 +129,6 @@ PrintArray(count);
 
 double []arr = new.double[size]
 array[] = rnd.NextDouble();
+
+double d = 4.2345655;
+double res = Math.Round(d, 1);
